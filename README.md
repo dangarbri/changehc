@@ -20,6 +20,10 @@ organization, their details are filled into the placeholder manager.
 
 Once this hiearchy is built, managing details like printing the hiearchy becomes easy.
 
+Note: I am using Python 3.8.8 in case you have any issues with imports
+Run the solution with `python main.py`
+
+
 ### Testing
 Unit tests are in the tests directory. Testing was done mainly on constructing
 the hiearchy. I did not implement tests for printing the hiearchy or salary
